@@ -1,5 +1,5 @@
-# ping-pong
-Programmed a Ping_Pong Game in C++ in 2014
+# Ping-Pong Using 2D Cordinate Geomerty
+Programmed a Ping-Pong Game in C++ in 2014
 
 # Math:
    
